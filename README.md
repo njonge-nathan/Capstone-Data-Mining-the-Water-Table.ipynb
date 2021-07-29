@@ -28,3 +28,9 @@
 * Implementing the solution by using the various classifier algorithms to predict whether a waterpoint is functional,non functional or functional but needs repair based on the information provided.
 * Challenging the solution by using a model that could outperform the best performing model identified earlier.
 * Providing conclusions and recommendations based on the analysis and various modelling techniques used in the project.
+
+## Technologies Used
+Python
+
+## Featured Notebook
+Colab Notebook
